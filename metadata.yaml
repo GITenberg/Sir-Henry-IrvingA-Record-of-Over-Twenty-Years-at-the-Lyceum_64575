@@ -1,0 +1,28 @@
+_repo: Sir-Henry-IrvingA-Record-of-Over-Twenty-Years-at-the-Lyceum_64575
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzgerald, Percy
+    aliases:
+    - Fitzgerald, Percy Hetherington
+    - Dyce, Gilbert
+    birthdate: 1834
+    deathdate: 1925
+    gutenberg_agent_id: '24906'
+    url: http://www.gutenberg.org/2009/agents/24906
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Hetherington_Fitzgerald
+description: ''
+gutenberg_issued: '2021-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irving, Henry, Sir, 1838-1905'
+- !lcc 'PN'
+- GITenberg
+title: Sir Henry Irving—A Record of Over Twenty Years at the Lyceum
+url: http://www.gutenberg.org/ebooks/64575
