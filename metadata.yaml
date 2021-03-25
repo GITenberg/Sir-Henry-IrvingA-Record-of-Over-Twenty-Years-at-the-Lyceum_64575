@@ -1,5 +1,8 @@
 _repo: Sir-Henry-IrvingA-Record-of-Over-Twenty-Years-at-the-Lyceum_64575
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64575-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzgerald, Percy
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24906
     wikipedia: https://en.wikipedia.org/wiki/Percy_Hetherington_Fitzgerald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64575#Sir-Henry-IrvingA-Record-of-Over-Twenty-Years-at-the-Lyceum
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
